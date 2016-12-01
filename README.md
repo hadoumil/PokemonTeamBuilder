@@ -16,7 +16,7 @@ If both defog and rapidSpin are true, only one of the two will be required. You 
   <li>preferredDefoggers
   <li>preferredRapidSpinners
 </ul>
-Next, you can choose the core members of your team by configuring the presetTeam[] array (or just leave it blank). The buildSet[] determines the Pokemon considered for filling the rest of your team. Since gen7 tiers are not released yet, ignore the presetTiers[], additionalPokemon[], and excludedPokemon[] arrays. I added the most common gen7 Pokemon to presetBuildSet[] for now.<br/>
+Next, you can choose the core members of your team by configuring the presetTeam[] array (or just leave it blank). The buildSet[] determines the Pokemon considered for filling the rest of your team. Since gen7 tiers are not released yet, ignore the presetTiers[], additionalPokemon[], and excludedPokemon[] arrays. I added the most common gen7 Pokemon to presetBuildSet[] for now.<br/><br/>
 The main algorithm is contained in the buildTeams() method. It cycles through all possible combinations of Pokemon to fill the remained of your team and decides whether a team is valid based on the following conditions:
 <ol>
   <li>The team has no more than 1 mega evolution, and a mega and its baseSpecies are not on the same team
