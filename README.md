@@ -28,4 +28,4 @@ It also decides on whether a team is "competitive" based on these criteria:
 	<li>The team has at least 1 ground immunity
 	<li>The team has a maximum of 2 weaknesses against every type
 </ol>
-These criteria can be customized and are currently based on an analysis of a set of sample teams performed by the optional analyzeSampleTeams() method. In the future, the algorithm will be much more complexed and probably based on metagame usage statistics and checks and counters calculations. Check out the todos file to see some implementation ideas.
+These criteria can be customized and are currently based on an analysis of a set of sample teams performed by the optional analyzeSampleTeams() method. The output is a list of the calculated teams as well as a type matchup chart for each team and some debug progress updates. In the future, the algorithm will be much more complexed and probably based on metagame usage statistics and checks and counters calculations. Check out the todos file to see some implementation ideas.
