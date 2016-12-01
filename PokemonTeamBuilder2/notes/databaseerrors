@@ -1,0 +1,8 @@
+Errors in .js files
+pokedex:
+	form -> forme (includes forms -> formes)
+	Form -> Forme (includes Forms -> Formes)
+	
+	duplicate form attributes (form + forme)
+formats:	
+	random // in line 3441

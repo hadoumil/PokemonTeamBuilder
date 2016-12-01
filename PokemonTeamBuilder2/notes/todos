@@ -1,0 +1,37 @@
+add more suffisticated condition system. Conditions include: only one mega per team, has at least 1 stealth rocker, etc.
+implement moves
+add type coverage conditions
+support for oldgen .js files -> inherit properties
+implement stopping option -> display results when stop action is executed
+fix iteration error when preset team:
+	Possible combinations: 52394
+	Iterations: 45760
+	despite not outputting any team
+	problem: not cycling through all options
+	solution: only execute certain for loops when corresponding preset condition is met
+add abilities and their effect on type matchups
+add machine learning algorithm that determines checks and counters, maybe based on 1v1 simulations
+add support for different team types
+	HO: include revenge killer, high average speed
+	Bala
+optimize looping by creating essentialPokemon class that only contains attributes essential for the calculations
+determine if the team needs hazard control automatically
+determine checks and counters
+implement usage and common set data to figure out meta information
+use the two above to creating effective sets for meta (utility information needs to be included) -> set1: 4 moves optimized set2: stealth rocks + 3 moves optimized etc.
+sets for walling and sets for attacking
+add 1v1 simulations to determine checks and counters
+add a bunch of sample teams of different playstyles
+setup array of minresistance and maxweakness requirements as presets -> possibly determine those from sampleteams automatically
+made UI
+make GUI
+add pokemon team format parser for sample teams
+have analyseSampleTeams method find anomalies by itself
+condition: not too many sr weaks
+condition: alternate form can't be in team
+refine resistance and weakness system: 1/4 resists/weaks count for more
+export team to log automatically
+analyse most common synergy pokemon
+cleanup code
+autocalcer for ev spreads: show ev's needed to avoid 2hko, 2hko after rocks, etc. from certain mons
+Base needed number of resists on how common certain moves are in the metagame

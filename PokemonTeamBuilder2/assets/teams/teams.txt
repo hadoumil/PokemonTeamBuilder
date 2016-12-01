@@ -1,0 +1,28 @@
+Team   1:          Toxapex          Celesteela           Aegislash            Clefable             Dugtrio              Latios   
+Team   2:          Toxapex          Celesteela           Aegislash            Clefable            Garchomp              Latios   
+Team   3:          Toxapex          Celesteela           Aegislash            Clefable           Hippowdon              Latios   
+Team   4:          Toxapex          Celesteela            Alakazam            Garchomp              Latios            Magearna   
+Team   5:          Toxapex          Celesteela            Alakazam           Hippowdon              Latios            Magearna   
+Team   6:          Toxapex          Celesteela            Clefable             Dugtrio              Latios            Magearna   
+Team   7:          Toxapex          Celesteela            Clefable             Dugtrio              Latios           Magnezone   
+Team   8:          Toxapex          Celesteela            Clefable             Dugtrio              Latios      Metagross-Mega   
+Team   9:          Toxapex          Celesteela            Clefable            Garchomp              Latios            Magearna   
+Team  10:          Toxapex          Celesteela            Clefable            Garchomp              Latios           Magnezone   
+Team  11:          Toxapex          Celesteela            Clefable            Garchomp              Latios      Metagross-Mega   
+Team  12:          Toxapex          Celesteela            Clefable           Hippowdon              Latios            Magearna   
+Team  13:          Toxapex          Celesteela            Clefable           Hippowdon              Latios           Magnezone   
+Team  14:          Toxapex          Celesteela            Clefable           Hippowdon              Latios      Metagross-Mega   
+Team  15:          Toxapex          Celesteela            Garchomp              Latios            Magearna             Mimikyu   
+Team  16:          Toxapex          Celesteela            Garchomp              Latios            Magearna           Porygon-Z   
+Team  17:          Toxapex          Celesteela            Garchomp              Latios            Magearna          Rotom-Wash   
+Team  18:          Toxapex          Celesteela            Garchomp              Latios            Magearna           Tapu Lele   
+Team  19:          Toxapex          Celesteela           Hippowdon       Hoopa-Unbound              Latios            Magearna   
+Team  20:          Toxapex          Celesteela           Hippowdon              Latios            Magearna             Mimikyu   
+Team  21:          Toxapex          Celesteela           Hippowdon              Latios            Magearna           Porygon-Z   
+Team  22:          Toxapex          Celesteela           Hippowdon              Latios            Magearna          Rotom-Wash   
+Team  23:          Toxapex          Celesteela           Hippowdon              Latios            Magearna           Tapu Lele   
+Conditions: Stealth Rocks   Defog   Rapid Spin
+Build selection size: 41
+Possible combinations: 101270
+Iterations: 101270
+Total time: 8.64s

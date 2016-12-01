@@ -1,0 +1,47 @@
+Sample size: 17
+       Bug: 48 Resistances   27 Weaknesses    0x < 2      Bug Resists    2x > 2 Weaknesses
+      Dark: 24 Resistances   16 Weaknesses    9x < 2     Dark Resists    0x > 2 Weaknesses
+    Dragon: 31 Resistances    3 Weaknesses    5x < 2   Dragon Resists    0x > 2 Weaknesses
+  Electric: 38 Resistances   22 Weaknesses    0x < 2 Electric Resists    0x > 2 Weaknesses
+     Fairy: 35 Resistances   22 Weaknesses    2x < 2    Fairy Resists    0x > 2 Weaknesses
+  Fighting: 53 Resistances   30 Weaknesses    0x < 2 Fighting Resists    2x > 2 Weaknesses
+      Fire: 46 Resistances   24 Weaknesses    0x < 2     Fire Resists    0x > 2 Weaknesses
+    Flying: 30 Resistances   20 Weaknesses    6x < 2   Flying Resists    0x > 2 Weaknesses
+     Ghost: 11 Resistances   19 Weaknesses   16x < 2    Ghost Resists    0x > 2 Weaknesses
+     Grass: 45 Resistances   31 Weaknesses    0x < 2    Grass Resists    0x > 2 Weaknesses
+    Ground: 30 Resistances   26 Weaknesses    9x < 2   Ground Resists    0x > 2 Weaknesses
+       Ice: 32 Resistances   32 Weaknesses    4x < 2      Ice Resists    4x > 2 Weaknesses
+    Normal: 33 Resistances    0 Weaknesses    3x < 2   Normal Resists    0x > 2 Weaknesses
+    Poison: 47 Resistances   14 Weaknesses    0x < 2   Poison Resists    0x > 2 Weaknesses
+   Psychic: 49 Resistances   15 Weaknesses    0x < 2  Psychic Resists    0x > 2 Weaknesses
+      Rock: 17 Resistances   10 Weaknesses   14x < 2     Rock Resists    0x > 2 Weaknesses
+     Steel: 44 Resistances   22 Weaknesses    0x < 2    Steel Resists    0x > 2 Weaknesses
+     Water: 38 Resistances   45 Weaknesses    0x < 2    Water Resists   11x > 2 Weaknesses
+     
+Common resisitances anomalies (< 2): Ghost (16x) Rock (14x) Dark (9x) Ground (9x) Flying (6x)
+Common weakness anomalies (> 2): Water (11x)
+
+       Bug: 48 Resistances   27 Weaknesses    0x < 1      Bug Resists    0x > 3 Weaknesses
+      Dark: 24 Resistances   16 Weaknesses    1x < 1     Dark Resists    0x > 3 Weaknesses
+    Dragon: 31 Resistances    3 Weaknesses    0x < 1   Dragon Resists    0x > 3 Weaknesses
+  Electric: 38 Resistances   22 Weaknesses    0x < 1 Electric Resists    0x > 3 Weaknesses
+     Fairy: 35 Resistances   22 Weaknesses    0x < 1    Fairy Resists    0x > 3 Weaknesses
+  Fighting: 53 Resistances   30 Weaknesses    0x < 1 Fighting Resists    1x > 3 Weaknesses
+      Fire: 46 Resistances   24 Weaknesses    0x < 1     Fire Resists    0x > 3 Weaknesses
+    Flying: 30 Resistances   20 Weaknesses    1x < 1   Flying Resists    0x > 3 Weaknesses
+     Ghost: 11 Resistances   19 Weaknesses    7x < 1    Ghost Resists    0x > 3 Weaknesses
+     Grass: 45 Resistances   31 Weaknesses    0x < 1    Grass Resists    0x > 3 Weaknesses
+    Ground: 30 Resistances   26 Weaknesses    0x < 1   Ground Resists    0x > 3 Weaknesses
+       Ice: 32 Resistances   32 Weaknesses    0x < 1      Ice Resists    0x > 3 Weaknesses
+    Normal: 33 Resistances    0 Weaknesses    0x < 1   Normal Resists    0x > 3 Weaknesses
+    Poison: 47 Resistances   14 Weaknesses    0x < 1   Poison Resists    0x > 3 Weaknesses
+   Psychic: 49 Resistances   15 Weaknesses    0x < 1  Psychic Resists    0x > 3 Weaknesses
+      Rock: 17 Resistances   10 Weaknesses    3x < 1     Rock Resists    0x > 3 Weaknesses
+     Steel: 44 Resistances   22 Weaknesses    0x < 1    Steel Resists    0x > 3 Weaknesses
+     Water: 38 Resistances   45 Weaknesses    0x < 1    Water Resists    0x > 3 Weaknesses
+     
+Common resisitances anomalies (< 1): Ghost (7x)
+No common weakness anomalies (> 3)
+
+Conclusions: 0 Ghost resistances are common; 1 Dark, Rock, Ice, Flying, and Ground resistance are common; other types usually have at least 2
+			 3 water weaknesses are common; other types always have at least 2

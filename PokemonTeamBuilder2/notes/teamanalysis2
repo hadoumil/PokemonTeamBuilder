@@ -1,0 +1,26 @@
+Sample size: 110
+       Bug: 320 Resistances   162 Weaknesses    4x < 2      Bug Resists   10x > 2 Weaknesses
+      Dark: 154 Resistances   121 Weaknesses   63x < 2     Dark Resists    0x > 2 Weaknesses
+    Dragon: 184 Resistances   102 Weaknesses   44x < 2   Dragon Resists    1x > 2 Weaknesses
+  Electric: 274 Resistances   128 Weaknesses    9x < 2 Electric Resists    3x > 2 Weaknesses
+     Fairy: 173 Resistances   197 Weaknesses   53x < 2    Fairy Resists   26x > 2 Weaknesses
+  Fighting: 284 Resistances   164 Weaknesses    9x < 2 Fighting Resists   13x > 2 Weaknesses
+      Fire: 316 Resistances   159 Weaknesses    3x < 2     Fire Resists    7x > 2 Weaknesses
+    Flying: 176 Resistances   96 Weaknesses   47x < 2   Flying Resists    1x > 2 Weaknesses
+     Ghost: 60 Resistances   131 Weaknesses   100x < 2    Ghost Resists    2x > 2 Weaknesses
+     Grass: 295 Resistances   162 Weaknesses    6x < 2    Grass Resists    6x > 2 Weaknesses
+    Ground: 240 Resistances   161 Weaknesses   22x < 2   Ground Resists    6x > 2 Weaknesses
+       Ice: 219 Resistances   248 Weaknesses   30x < 2      Ice Resists   40x > 2 Weaknesses
+    Normal: 192 Resistances    0 Weaknesses   38x < 2   Normal Resists    0x > 2 Weaknesses
+    Poison: 292 Resistances   62 Weaknesses    4x < 2   Poison Resists    1x > 2 Weaknesses
+   Psychic: 286 Resistances   79 Weaknesses   10x < 2  Psychic Resists    0x > 2 Weaknesses
+      Rock: 166 Resistances   83 Weaknesses   51x < 2     Rock Resists    1x > 2 Weaknesses
+     Steel: 273 Resistances   108 Weaknesses    7x < 2    Steel Resists    1x > 2 Weaknesses
+     Water: 247 Resistances   200 Weaknesses   11x < 2    Water Resists   23x > 2 Weaknesses
+
+conclusions:
+	common resistance anomalies (<2): ghost(100x) dark(63x) fairy(53x) rock(51x) flying(47x) dragon(44x) normal(38x) ice(30x)
+	common resistance anomalies (<1): ghost(60x)
+	
+	common weakness anomalies (>2): ice(40x) fairy(26x) water(23x)
+	common weakness anomalies (>3): none

@@ -1,0 +1,27 @@
+For now, utility move presets are entered via arrays at the start of the program.
+typeChart order corresponds to types order
+some alternate don't have a tier -> ignore during tier sorting
+gen2 has no pokedex.js
+gen3 has no pokedex.js
+gen3 has no typechart.js
+gen4 has no typechart.js
+pastgen .js files don't always include all types/abilities/etc.
+	i.e. the pokedex for gen6 is based on all other previous pokedexes, some pokemon are inherited
+preset pokemon are removed from build set so that no duplicates occur
+
+Pokemon attributes used during the loop atm:
+	species
+	baseSpecies
+	form
+	types
+	abilities (later)
+Unused:
+	key
+	num
+	baseStats
+Tiers and moves handled separately
+type matchups are calculated based on ALL possible abilities, change that when implementing checks and counter, pokemon can only have one ability
+possible performance optimization: calc resistances and weaknesses in one loop and not two separate methods
+make type chart tables look nicer -> header line
+OU by technicality tier: (OU)
+if conditionalHazardControl == true -> check for hazardControl using rapidSpin and defog booleans
